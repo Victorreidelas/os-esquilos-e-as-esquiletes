@@ -4,3 +4,8 @@ body{
     background: rgb(2,0,36);
     background: linear-gradient(355deg, rgba(2,0,36,1) 0%, rgba(255,5,5,1) 100%);
     }
+
+.teste1{
+    display: flex;
+    justify-content: center;
+}
