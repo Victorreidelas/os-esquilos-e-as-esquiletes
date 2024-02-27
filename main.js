@@ -9,7 +9,7 @@ function mudarCorFundo(){
    
 
 function alterarTexto(){
-    textoForm = document.querySelector("#textinput"). value
+    textoForm = document.querySelector("#textinput").value
 
     document.querySelector("#texto2").innerHTML = textoForm
 }
