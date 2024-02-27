@@ -4,9 +4,10 @@ function mudarCorTexto(){
 }
 
 function mudarCorFundo(){
-    document.querySelector("#p1").style.color= "green"
+    document.querySelector("#p1").style.background="green"
 }
-    
+   
+
 function alterarTexto(){
     textoForm = document.querySelector("#textinput"). value
 
