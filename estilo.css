@@ -6,7 +6,7 @@ body{
     }
 
 .t1{
-    align-items: center;
+    text-alignd: center;
 }
 .teste1{
     display: flex;
