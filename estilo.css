@@ -5,9 +5,9 @@ body{
     background: linear-gradient(355deg, rgba(2,0,36,1) 0%, rgba(255,5,5,1) 100%);
     }
 
-    .t1{
-        align-items: center;
-    }
+.t1{
+    align-items: center;
+}
 .teste1{
     display: flex;
     justify-content: center;
